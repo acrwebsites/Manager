@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/04/22 11:19:42.000.875,=C:\Users\Fernando Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/22 11:20:39.000.686,=C:\Users\Fernando Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/28 14:08:33.000.172,=C:\Users\Fernando Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/28 14:14:51.000.643,F:\MUNDIAL\MANAGER SALE\FrmCaixa.pas=C:\Users\Fernando Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/28 14:14:51.000.643,F:\MUNDIAL\MANAGER SALE\FrmCaixa.dfm=C:\Users\Fernando Souza\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/04/28 14:15:00.000.095,F:\MUNDIAL\MANAGER SALE\Caixa.dproj=C:\Users\Fernando Souza\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/04/28 15:26:43.000.795,=F:\MUNDIAL\MANAGER SALE\DM_Dados.pas</Transaction>
+    <Transaction>2016/04/28 15:26:43.000.813,=F:\MUNDIAL\MANAGER SALE\UFuncoes.pas</Transaction>
+    <Transaction>2016/04/28 18:29:42.000.313,F:\MUNDIAL\MANAGER SALE\DM_Dados.pas=</Transaction>
+    <Transaction>2016/04/29 18:14:30.000.129,=F:\MUNDIAL\MANAGER SALE\ModelSupport_Caixa\default.txaPackage</Transaction>
+    <Transaction>2016/04/29 20:36:00.000.435,=F:\MUNDIAL\MANAGER SALE\Unit1.pas</Transaction>
+    <Transaction>2016/04/29 20:37:01.000.838,=F:\MUNDIAL\MANAGER SALE\DM_Dados.pas</Transaction>
+    <Transaction>2016/04/29 21:08:13.000.355,F:\MUNDIAL\MANAGER SALE\DM_Dados.pas=</Transaction>
+    <Transaction>2016/04/29 21:08:29.000.392,=F:\MUNDIAL\MANAGER SALE\Unit1.pas</Transaction>
+    <Transaction>2016/04/29 21:08:49.000.713,F:\MUNDIAL\MANAGER SALE\DM_CAIXA.pas=F:\MUNDIAL\MANAGER SALE\Unit1.pas</Transaction>
+    <Transaction>2016/04/29 21:08:49.000.713,F:\MUNDIAL\MANAGER SALE\DM_CAIXA.dfm=F:\MUNDIAL\MANAGER SALE\Unit1.dfm</Transaction>
+    <Transaction>2016/04/29 21:32:42.000.848,F:\MUNDIAL\MANAGER SALE\DM_CAIXA.pas=</Transaction>
+    <Transaction>2016/04/29 21:33:07.000.251,=F:\MUNDIAL\MANAGER SALE\DM_Dados.pas</Transaction>
+    <Transaction>2016/04/29 22:43:40.000.936,=F:\MUNDIAL\MANAGER SALE\Unit1.pas</Transaction>
+    <Transaction>2016/04/29 22:46:49.000.602,F:\MUNDIAL\MANAGER SALE\FrmCXPesquiProdutos.pas=F:\MUNDIAL\MANAGER SALE\Unit1.pas</Transaction>
+    <Transaction>2016/04/29 22:46:49.000.602,F:\MUNDIAL\MANAGER SALE\FrmCXPesquiProdutos.dfm=F:\MUNDIAL\MANAGER SALE\Unit1.dfm</Transaction>
+    <Transaction>2016/05/03 13:28:15.000.461,F:\MUNDIAL\MANAGER SALE\DM_Dados.pas=</Transaction>
+    <Transaction>2016/05/03 13:29:59.000.985,=F:\MUNDIAL\MANAGER SALE\Unit1.pas</Transaction>
+    <Transaction>2016/05/03 13:30:39.000.444,F:\MUNDIAL\MANAGER SALE\DM_CAIXA.dfm=F:\MUNDIAL\MANAGER SALE\Unit1.dfm</Transaction>
+    <Transaction>2016/05/03 13:30:39.000.444,F:\MUNDIAL\MANAGER SALE\DM_CAIXA.pas=F:\MUNDIAL\MANAGER SALE\Unit1.pas</Transaction>
+    <Transaction>2016/05/03 13:32:35.000.395,F:\MUNDIAL\MANAGER SALE\DM_CAIXA.dfm=</Transaction>
+    <Transaction>2016/05/03 13:32:50.000.936,=F:\MUNDIAL\MANAGER SALE\Unit1.pas</Transaction>
+    <Transaction>2016/05/03 13:33:51.000.186,F:\MUNDIAL\MANAGER SALE\DM_CAIXA.pas=F:\MUNDIAL\MANAGER SALE\Unit1.pas</Transaction>
+    <Transaction>2016/05/03 13:33:51.000.186,F:\MUNDIAL\MANAGER SALE\DM_CAIXA.dfm=F:\MUNDIAL\MANAGER SALE\Unit1.dfm</Transaction>
+    <Transaction>2016/05/03 18:05:56.000.698,=F:\MUNDIAL\MANAGER SALE\Unit1.pas</Transaction>
+    <Transaction>2016/05/03 18:06:33.000.212,F:\MUNDIAL\MANAGER SALE\Unit1.pas=F:\MUNDIAL\MANAGER SALE\FrmConfigCX.pas</Transaction>
+    <Transaction>2016/05/03 18:06:33.000.212,F:\MUNDIAL\MANAGER SALE\Unit1.dfm=F:\MUNDIAL\MANAGER SALE\FrmConfigCX.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
